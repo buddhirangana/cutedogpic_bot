@@ -1,6 +1,6 @@
 # Cute Dog Pic 🤖
 
-This bot will send you a random dog image when you type /dog command.
+This bot will send you a random dog image when you type `/dog` command.
 
 ## Requirements
 
