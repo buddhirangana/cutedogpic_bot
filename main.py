@@ -27,7 +27,7 @@ def dog(update, context: CallbackContext):
     context.bot.send_photo(chat_id=chat_id, photo=url)
 
 def main():
-    TOKEN = '5517397032:AAHqKWEnwfE1W_TWdXuO3DwB5h0D9F9S4qE'
+    TOKEN = 'BOT_TOKEN'
     updater = Updater(TOKEN, use_context=True)
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('start', start))
