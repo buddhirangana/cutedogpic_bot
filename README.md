@@ -34,6 +34,14 @@ python3 main.py
 
 To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://github.com/buddhirangana/cutedogpic_bot/blob/main/main.py#L24">#24</a> with the token of your bot.
 
+## Credits
+
+- This bot besed on [doggobot](https://github.com/dzakyputra/doggobot) which made by [Dzaky Widya Putra](https://github.com/dzakyputra). So oiginal credits go to [Dzaky Widya Putra](https://github.com/dzakyputra) and his dedication.
+
+### Other Credits
+
+- [RandomDog API](https://random.dog)
+
 ## License
 
 See the `LICENSE` file for license rights and limitations (MIT).
