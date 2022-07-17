@@ -36,7 +36,7 @@ To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://git
 
 ## Credits
 
-- This bot besed on [doggobot](https://github.com/dzakyputra/doggobot) which made by [Dzaky Widya Putra](https://github.com/dzakyputra). So oiginal credits go to [Dzaky Widya Putra](https://github.com/dzakyputra) and his dedication.
+This bot besed on [doggobot](https://github.com/dzakyputra/doggobot) which made by [Dzaky Widya Putra](https://github.com/dzakyputra). So oiginal credits go to [Dzaky Widya Putra](https://github.com/dzakyputra) and his dedication.
 
 ### Other Credits
 
