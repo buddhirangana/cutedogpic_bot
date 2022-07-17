@@ -29,3 +29,11 @@ Run the program.
 ```
 python3 main.py
 ```
+
+## Usage
+
+To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://github.com/buddhirangana/cutedogpic_bot/main.py#L24">#24</a> with the token of your bot.
+
+## License
+
+See the `LICENSE` file for license rights and limitations (MIT).
