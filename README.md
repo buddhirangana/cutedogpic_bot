@@ -32,7 +32,7 @@ python3 main.py
 
 ## Usage
 
-To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://github.com/buddhirangana/cutedogpic_bot/blob/main/main.py#L24">#24</a> with the token of your bot.
+To run the bot, change the `"BOT_TOKEN"` string in the line <a href="https://github.com/buddhirangana/cutedogpic_bot/blob/main/main.py#L30">#30</a> with the token of your bot.
 
 ## Credits
 
